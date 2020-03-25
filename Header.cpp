@@ -35,7 +35,7 @@ void give_a_joke()
 {
 
 	event newevent;
-	cout << "enter a category:";
+	cout << "enter a categoryy:";
 	cin.ignore();
 	getline(cin, newevent.category);
 	cout << "enter the title :";
